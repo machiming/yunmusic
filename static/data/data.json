@@ -1,0 +1,7 @@
+{
+ "musicColum":[
+   {"id":1,"name":"推荐音乐","active":true,"path":"/MuiscBox"},
+   {"id":1,"name":"热歌绑","active":false,"path":"/hot"},
+   {"id":1,"name":"搜索","active":false,"path":"/search"}
+ ]
+}
